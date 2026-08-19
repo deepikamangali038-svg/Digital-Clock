@@ -1,0 +1,16 @@
+Digital Clock Simulation
+------------------------
+Time = 00:00:00
+Time = 00:00:01
+Time = 00:00:02
+Time = 00:00:03
+Time = 00:00:04
+Time = 00:00:05
+Time = 00:00:06
+Time = 00:00:07
+Time = 00:00:08
+Time = 00:00:09
+Time = 00:00:10
+Time = 00:00:11
+Time = 00:00:12
+Time = 00:00:13
